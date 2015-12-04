@@ -1,0 +1,4 @@
+#generated with https://rubygems.org/gems/aka2
+
+alias typing='gem build typing.gemspec' # => typing
+alias ityping='gem install typing-0.1.0.gem' # => typing
