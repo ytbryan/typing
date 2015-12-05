@@ -10,18 +10,11 @@ Add this line to your application's Gemfile:
 gem 'typing'
 ```
 
-At Application.js, add this after turbolink:
+At Application.js, add `//require typing` after turbolinks:
 ```
+//require turbolinks
 //require typing
 ```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install typing
 
 ## Usage
 
