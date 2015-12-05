@@ -1,6 +1,6 @@
-# Typing
-
 ![Typing](assets/images/typing.gif)
+
+# Typing
 
 ## Usage
 
