@@ -2,20 +2,6 @@
 
 ![Typing](assets/images/typing.gif)
 
-## Installation
-
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'typing'
-```
-
-At Application.js, add `//require typing` after turbolinks:
-```
-//require turbolinks
-//require typing
-```
-
 ## Usage
 
 At your view.
@@ -29,6 +15,22 @@ At your controller, pass in the array.
 ```
 @array = ["Pizza","Sushi","Potato Chips"]
 ```
+
+
+## Installation
+
+Add this line to your application's Gemfile:
+
+```ruby
+gem 'typing'
+```
+
+At Application.js, add `//require typing` after turbolinks:
+```
+//= require turbolinks
+//= require typing
+```
+
 
 
 ## Development
