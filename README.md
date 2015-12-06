@@ -1,5 +1,7 @@
 ![Typing](assets/images/typing.gif)
 
+[See example on heroku.](http://typingdemo.herokuapp.com/) ([source](http://github.com/ytbryan/typingdemo))
+
 # Typing
 
 ## Usage
